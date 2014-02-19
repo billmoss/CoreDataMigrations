@@ -3,7 +3,7 @@ CoreDataMigrations
 
 Keynote Presentation from my Core Data Migrations talk at San Antonio iOS Meetup.
 
-The presentation included 4 demos that are referenced in the slides.
+The presentation included 4 demos posted here on GitHub that are referenced in the slides.
 
 Demo 1: CoreDataMigrations-NoMigration
 This demo is a simple Core Data app with no model versioning or migration features.
