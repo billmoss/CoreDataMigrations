@@ -2,6 +2,7 @@ CoreDataMigrations
 ==================
 
 Keynote Presentation from my Core Data Migrations talk at San Antonio iOS Meetup.
+There is also a PDF export of the presentation if you don't have Keynote.
 
 The presentation included 4 demos posted here on GitHub that are referenced in the slides.
 
